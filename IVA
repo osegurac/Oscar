@@ -1,0 +1,6 @@
+Producto = Input("Producto ")
+Precio = Float(input("Producto "))
+IVA = Precio*0.13
+Total = Precio+IVA
+Print ("El IVA es ", IVA)
+Print ("El total es ", Total)
